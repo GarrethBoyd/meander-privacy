@@ -159,3 +159,9 @@ If this policy changes, the updated version will be published at this URL and
 the date at the top will change.
 
 ---
+
+## Contact
+
+Questions about this policy or your data: **GBMeander@proton.me**
+
+---
