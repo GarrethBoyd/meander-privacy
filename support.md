@@ -1,5 +1,6 @@
+---
 # Meander — Support
-
+---
 Need help with Meander, found a bug, or have an idea? Get in touch:
 
 **GBMeander@proton.me**
