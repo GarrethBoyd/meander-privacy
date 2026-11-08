@@ -205,33 +205,85 @@ shared until you invite someone or accept an invite.
 
 On the free plan you can see **1 friend**; Pro shows them all.
 
-### What friends see
+### Your sharing settings
 
-Only what you choose in **Settings ▸ Friends**:
+Everything friends can see is chosen in **Settings ▸ Friends**:
 
-- **What I Share** — the stats you tick, such as distance this week
-- **Your level**, if you leave it on
-- **Your name** and **profile photo**, if you add them
+- **Share My Stats** — your card on or off (see *Pausing* below)
+- **What I Share** — which stats friends see, and whether your level is shown.
+  Each stat shows its number as it is now, so you know exactly what's shared.
+  Some stats, such as Photos Taken and Longest Walk, need Pro.
+- **Share My Activity** and **Include Photos** — your recent walks (see
+  *Activity* below)
+- **Profile Photo** and **Name** — how you appear on your card
+- **Manage Friends** — everyone you share with
 
 Friends **never** see your routes, maps or locations.
 
+<p align="center">
+  <img src="images/friends-settings.png" width="200" style="border-radius: 24px; margin: 8px;" alt="Settings ▸ Friends: Share My Stats, What I Share, Share My Activity, Include Photos, Profile Photo, Name and Manage Friends">
+  <img src="images/friends-what-i-share.png" width="200" style="border-radius: 24px; margin: 8px;" alt="What I Share: your level, and a tick beside each stat friends can see">
+</p>
+
+### My Card: how friends see you
+
+Tap **My Card** at the top of the Friends page to see your card exactly as your
+friends do. **Stats** shows what you share; **Activity** shows your recent
+walks, achievements and levels. **Edit in Settings** takes you straight to
+your sharing settings.
+
+<p align="center">
+  <img src="images/friends-my-card.png" width="200" style="border-radius: 24px; margin: 8px;" alt="My Card, Stats: your name, level and the stats you share">
+  <img src="images/friends-my-activity.png" width="200" style="border-radius: 24px; margin: 8px;" alt="My Card, Activity: your recent walks with their photos, and new levels">
+</p>
+
 ### Activity
 
-Switch on **Share My Activity** in Settings ▸ Friends to show friends your walks,
-achievements and new levels from the last 30 days. **Include Photos** adds up
-to four photos from each walk. Routes and locations are never included.
+Switch on **Share My Activity** to show friends what you've been up to over the
+**last 30 days**:
+
+- **Walks** — how far, and when, with any achievement earned on the way
+- **Photos** — with **Include Photos** on, up to four from each walk (smaller
+  copies, not the originals)
+- **Achievements** you unlock and **levels** you reach
+
+Routes and locations are never included. Anything older than 30 days, or any
+walk you delete, is removed automatically. With Share My Activity off, your
+Activity tab says so, and friends see no activity from you.
+
+<p align="center">
+  <img src="images/friends-my-activity-achievements.png" width="200" style="border-radius: 24px; margin: 8px;" alt="Activity: achievements unlocked and levels reached">
+  <img src="images/friends-my-activity-off.png" width="200" style="border-radius: 24px; margin: 8px;" alt="Activity with Share My Activity off: Not Sharing Activity">
+</p>
 
 ### Rankings
 
-The **Rankings** page puts you and your friends in order by any stat you all
-share.
+The **Rankings** page puts you and your friends in order. Tap **Ranked by** to
+choose the stat, from walks and distance today to your best month. The leader
+gets a crown. A friend only appears for a stat they share.
+
+Pull down on the Friends tab at any time to get your friends' latest numbers.
+
+<p align="center">
+  <img src="images/friends-rankings.png" width="200" style="border-radius: 24px; margin: 8px;" alt="Rankings by Total Distance, with the leader crowned">
+  <img src="images/friends-rankings-picker.png" width="200" style="border-radius: 24px; margin: 8px;" alt="The Ranked by menu, listing every stat">
+</p>
 
 ### Pausing and ending
 
-- **Share My Stats** off pauses sharing. Friends see that you've paused, and
-  you still see their stats.
-- **Unfriend** someone from their page or **Manage Friends**.
-- **Stop Sharing** ends every friendship and deletes your Friends card.
+- **Pausing:** switch **Share My Stats** off. Your card shows *Sharing paused*
+  instead of your numbers, and you drop out of Rankings. You still see your
+  friends' stats. Switch it back on and your stats return.
+- **Unfriend** someone from **Manage Friends** (or their page). It works both
+  ways: you both stop seeing each other's stats. They aren't told, beyond you
+  no longer appearing.
+- **Stop Sharing**, at the bottom of Settings ▸ Friends, ends every friendship
+  and deletes your Friends card.
+
+<p align="center">
+  <img src="images/friends-my-card-paused.png" width="200" style="border-radius: 24px; margin: 8px;" alt="My Card with sharing paused">
+  <img src="images/friends-manage.png" width="200" style="border-radius: 24px; margin: 8px;" alt="Manage Friends, with Unfriend beside each friend">
+</p>
 
 ---
 
