@@ -55,7 +55,16 @@ You can change any of these later in the iPhone **Settings** app, under Meander.
 On the **Walk** tab, tap **Start Walk**. Meander begins recording your route,
 distance and time straight away.
 
+<p align="center">
+  <img src="images/walk-start.png" width="240" alt="The Walk tab, with your stats, goals and the Start Walk button">
+</p>
+
 ### During a walk
+
+<p align="center">
+  <img src="images/walk-active.png" width="240" alt="A walk in progress: your route on the map, with distance, time and pace">
+  <img src="images/pro-live-activities.png" width="240" alt="A walk on the Lock Screen as a Live Activity">
+</p>
 
 - **Pause** if you stop for a while, and **Resume** when you set off again.
   Paused time doesn't count towards your walk.
@@ -77,8 +86,14 @@ On the free plan, each walk can have up to **3 photos**.
 
 ### Finishing
 
-Tap **Finish Walk**, then **View & Save Walk** to see your summary and keep
-it, or **Discard Walk** if you didn't mean to record it.
+Tap **Finish Walk**, then **View & Save Walk** to see your summary: your
+route with the photos you took, your distance, time and pace, and how far
+the walk moves your goals. Tap **Save** to keep it, or **Discard** if you
+didn't mean to record it.
+
+<p align="center">
+  <img src="images/walk-summary.png" width="240" alt="The walk summary, with Save and Discard">
+</p>
 
 If Meander was closed during a walk, you'll see **Walk Interrupted** when you
 return, with the option to carry on. The time shown includes the time the app
@@ -103,6 +118,11 @@ The **Journal** tab is your walking diary.
   favourites.
 - **Places** — the areas you've walked in, with the walks from each.
 
+<p align="center">
+  <img src="images/journal.png" width="240" alt="The Journal tab, listing your walks">
+  <img src="images/journal-walk.png" width="240" alt="A walk in the Journal: its route, photos and story">
+</p>
+
 ---
 
 ## Progress
@@ -120,6 +140,17 @@ The **Progress** tab shows how far you've come.
 - **Charts** — your walking over time. **Detailed Analytics** (Pro) adds more
   stats and trends.
 - **Monthly Recaps** (Pro) — a look back at each month of wandering.
+
+<p align="center">
+  <img src="images/progress.png" width="240" alt="The Progress tab, with your level and stats">
+  <img src="images/level-info.png" width="240" alt="Your level, and where your points came from">
+</p>
+
+<p align="center">
+  <img src="images/achievements.png" width="200" alt="Your achievements">
+  <img src="images/achievement-unlocked.png" width="200" alt="An achievement you've unlocked">
+  <img src="images/achievement-locked.png" width="200" alt="An achievement still to earn">
+</p>
 
 ---
 
@@ -241,10 +272,26 @@ Open Settings from the gear at the top right of any tab. The main sections:
 - **Walk Tab Stats** — which stats appear on the Walk tab
 - **Live Activity** — what shows on the Lock Screen
 - **Walk Challenges** and **Audio Feedback** — during-walk extras
-- **Notifications** — daily reminders and weekly summaries
+- **Notifications** — daily reminders, weekly summaries and photo reminders
 - **Friends** — what you share, your name and photo, Manage Friends
 - **Apple Health** — saving walks to Health
 - **iCloud Sync** — sync status for your walks and photos
+- **About** — this guide, feedback, and the privacy policy
+
+### Themes
+
+Under **Appearance**, pick a theme to change Meander's colours across the
+app. Pro adds exclusive themes.
+
+<p align="center">
+  <img src="images/theme-picker.png" width="240" alt="The theme picker">
+</p>
+
+<p align="center">
+  <img src="images/theme-example-1.png" width="200" alt="Meander in one theme">
+  <img src="images/theme-example-2.png" width="200" alt="Meander in another theme">
+  <img src="images/theme-example-3.png" width="200" alt="Meander in a third theme">
+</p>
 
 ---
 
@@ -297,4 +344,3 @@ to write workouts.
 
 Email **GBMeander@proton.me**, or use **Send Feedback** in Meander's Settings,
 which fills in your app and iOS versions for you.
-
