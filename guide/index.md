@@ -123,6 +123,43 @@ The **Journal** tab is your walking diary.
   <img src="images/journal-walk.png" width="240" alt="A walk in the Journal: its route, photos and story">
 </p>
 
+### Photo Stream (Pro)
+
+Switch to **Photos** at the top of the Journal to see every photo from every
+walk in one place, grouped by month.
+
+**Sorting and filtering.** Tap the filter button to choose how your photos are
+shown:
+
+- **Favourites only** — just the photos you've marked with a heart (see below)
+- **Newest First** or **Oldest First**
+- **By Distance** — photos from your longest walks first
+- **By Location** — A to Z by the place each walk was in
+- **Place** — only the photos from one place you've walked
+
+You can also search your notes and places with the search bar.
+
+<p align="center">
+  <img src="images/photo-stream-filters.png" width="240" alt="Photo Stream's sort and filter menu, with Favourites only at the top">
+</p>
+
+**Viewing a photo.** Tap any photo to open it full screen. Swipe, or use the
+arrows at the bottom, to move between photos; the counter at the top shows
+where you are.
+
+- **♡ Favourite** — tap the heart at the top to mark a photo as a favourite.
+  Tap it again to remove it. Favourites are what **Favourites only** shows.
+- **•••** — **Add Caption** (or edit one), **Save to Photos** to keep a copy in
+  your iPhone's Photos app, or **Delete** the photo from your walk.
+- **ⓘ** — the photo's details: when it was taken, the walk's distance and
+  time, how far into the walk you were, and where it was taken.
+
+<p align="center">
+  <img src="images/photo-viewer.png" width="200" alt="A photo full screen, with the favourite heart and the ••• button at the top">
+  <img src="images/photo-viewer-options.png" width="200" alt="The ••• menu: Add Caption, Save to Photos and Delete">
+  <img src="images/photo-viewer-details.png" width="200" alt="Photo Details: date and time, walk distance and duration, distance when captured, and location">
+</p>
+
 ---
 
 ## Progress
