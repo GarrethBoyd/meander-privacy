@@ -56,14 +56,14 @@ On the **Walk** tab, tap **Start Walk**. Meander begins recording your route,
 distance and time straight away.
 
 <p align="center">
-  <img src="images/walk-start.png" width="240" alt="The Walk tab, with your stats, goals and the Start Walk button">
+  <img src="images/walk-start.png" width="200" style="border-radius: 24px; margin: 8px;" alt="The Walk tab, with your stats, goals and the Start Walk button">
 </p>
 
 ### During a walk
 
 <p align="center">
-  <img src="images/walk-active.png" width="240" alt="A walk in progress: your route on the map, with distance, time and pace">
-  <img src="images/pro-live-activities.png" width="240" alt="A walk on the Lock Screen as a Live Activity">
+  <img src="images/walk-active.png" width="200" style="border-radius: 24px; margin: 8px;" alt="A walk in progress: your route on the map, with distance, time and pace">
+  <img src="images/pro-live-activities.png" width="200" style="border-radius: 24px; margin: 8px;" alt="A walk on the Lock Screen as a Live Activity">
 </p>
 
 - **Pause** if you stop for a while, and **Resume** when you set off again.
@@ -92,7 +92,7 @@ the walk moves your goals. Tap **Save** to keep it, or **Discard** if you
 didn't mean to record it.
 
 <p align="center">
-  <img src="images/walk-summary.png" width="240" alt="The walk summary, with Save and Discard">
+  <img src="images/walk-summary.png" width="200" style="border-radius: 24px; margin: 8px;" alt="The walk summary, with Save and Discard">
 </p>
 
 If Meander was closed during a walk, you'll see **Walk Interrupted** when you
@@ -119,8 +119,8 @@ The **Journal** tab is your walking diary.
 - **Places** — the areas you've walked in, with the walks from each.
 
 <p align="center">
-  <img src="images/journal.png" width="240" alt="The Journal tab, listing your walks">
-  <img src="images/journal-walk.png" width="240" alt="A walk in the Journal: its route, photos and story">
+  <img src="images/journal.png" width="200" style="border-radius: 24px; margin: 8px;" alt="The Journal tab, listing your walks">
+  <img src="images/journal-walk.png" width="200" style="border-radius: 24px; margin: 8px;" alt="A walk in the Journal: its route, photos and story">
 </p>
 
 ### Photo Stream (Pro)
@@ -140,7 +140,7 @@ shown:
 You can also search your notes and places with the search bar.
 
 <p align="center">
-  <img src="images/photo-stream-filters.png" width="240" alt="Photo Stream's sort and filter menu, with Favourites only at the top">
+  <img src="images/photo-stream-filters.png" width="200" style="border-radius: 24px; margin: 8px;" alt="Photo Stream's sort and filter menu, with Favourites only at the top">
 </p>
 
 **Viewing a photo.** Tap any photo to open it full screen. Swipe, or use the
@@ -155,9 +155,9 @@ where you are.
   time, how far into the walk you were, and where it was taken.
 
 <p align="center">
-  <img src="images/photo-viewer.png" width="200" alt="A photo full screen, with the favourite heart and the ••• button at the top">
-  <img src="images/photo-viewer-options.png" width="200" alt="The ••• menu: Add Caption, Save to Photos and Delete">
-  <img src="images/photo-viewer-details.png" width="200" alt="Photo Details: date and time, walk distance and duration, distance when captured, and location">
+  <img src="images/photo-viewer.png" width="200" style="border-radius: 24px; margin: 8px;" alt="A photo full screen, with the favourite heart and the ••• button at the top">
+  <img src="images/photo-viewer-options.png" width="200" style="border-radius: 24px; margin: 8px;" alt="The ••• menu: Add Caption, Save to Photos and Delete">
+  <img src="images/photo-viewer-details.png" width="200" style="border-radius: 24px; margin: 8px;" alt="Photo Details: date and time, walk distance and duration, distance when captured, and location">
 </p>
 
 ---
@@ -179,14 +179,14 @@ The **Progress** tab shows how far you've come.
 - **Monthly Recaps** (Pro) — a look back at each month of wandering.
 
 <p align="center">
-  <img src="images/progress.png" width="240" alt="The Progress tab, with your level and stats">
-  <img src="images/level-info.png" width="240" alt="Your level, and where your points came from">
+  <img src="images/progress.png" width="200" style="border-radius: 24px; margin: 8px;" alt="The Progress tab, with your level and stats">
+  <img src="images/level-info.png" width="200" style="border-radius: 24px; margin: 8px;" alt="Your level, and where your points came from">
 </p>
 
 <p align="center">
-  <img src="images/achievements.png" width="200" alt="Your achievements">
-  <img src="images/achievement-unlocked.png" width="200" alt="An achievement you've unlocked">
-  <img src="images/achievement-locked.png" width="200" alt="An achievement still to earn">
+  <img src="images/achievements.png" width="200" style="border-radius: 24px; margin: 8px;" alt="Your achievements">
+  <img src="images/achievement-unlocked.png" width="200" style="border-radius: 24px; margin: 8px;" alt="An achievement you've unlocked">
+  <img src="images/achievement-locked.png" width="200" style="border-radius: 24px; margin: 8px;" alt="An achievement still to earn">
 </p>
 
 ---
@@ -321,13 +321,13 @@ Under **Appearance**, pick a theme to change Meander's colours across the
 app. Pro adds exclusive themes.
 
 <p align="center">
-  <img src="images/theme-picker.png" width="240" alt="The theme picker">
+  <img src="images/theme-picker.png" width="200" style="border-radius: 24px; margin: 8px;" alt="The theme picker">
 </p>
 
 <p align="center">
-  <img src="images/theme-example-1.png" width="200" alt="Meander in one theme">
-  <img src="images/theme-example-2.png" width="200" alt="Meander in another theme">
-  <img src="images/theme-example-3.png" width="200" alt="Meander in a third theme">
+  <img src="images/theme-example-1.png" width="200" style="border-radius: 24px; margin: 8px;" alt="Meander in one theme">
+  <img src="images/theme-example-2.png" width="200" style="border-radius: 24px; margin: 8px;" alt="Meander in another theme">
+  <img src="images/theme-example-3.png" width="200" style="border-radius: 24px; margin: 8px;" alt="Meander in a third theme">
 </p>
 
 ---
