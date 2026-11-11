@@ -1,6 +1,7 @@
----
 # Meander — Support
----
+
+[Privacy Policy](https://garrethboyd.github.io/meander-privacy/) · [Community Guidelines](https://garrethboyd.github.io/meander-privacy/guidelines/) · [User Guide](https://garrethboyd.github.io/meander-privacy/guide/) · **Support**
+
 Need help with Meander, found a bug, or have an idea? Get in touch:
 
 **GBMeander@proton.me**
@@ -36,4 +37,4 @@ write workouts.
 
 ---
 
-[Privacy Policy](./)
+[Privacy Policy](https://garrethboyd.github.io/meander-privacy/) · [Community Guidelines](https://garrethboyd.github.io/meander-privacy/guidelines/) · [User Guide](https://garrethboyd.github.io/meander-privacy/guide/) · **Support**
