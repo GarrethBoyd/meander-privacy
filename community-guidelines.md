@@ -42,7 +42,7 @@ groups you create. By using Friends, you agree to them.
 Your report comes to us by email, with what you reported attached. Meander
 can't see your friends or what they share, so your report is how we find out.
 
-**We aim to review reports with 48 hours.** We check what was reported against
+**We aim to review reports within 48 hours.** We check what was reported against
 the list above:
 
 - **If it doesn't break these guidelines**, we'll let you know. You can still
