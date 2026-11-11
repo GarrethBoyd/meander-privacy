@@ -1,5 +1,7 @@
 # Meander — User Guide
 
+[Privacy Policy](https://garrethboyd.github.io/meander-privacy/) · [Community Guidelines](https://garrethboyd.github.io/meander-privacy/guidelines/) · **User Guide** · [Support](https://garrethboyd.github.io/meander-privacy/support)
+
 Meander is a walking journal. It records where you walk, how far and how long,
 and the photos you take along the way, so you can look back on every wander.
 
@@ -433,3 +435,7 @@ to write workouts.
 
 Email **GBMeander@proton.me**, or use **Send Feedback** in Meander's Settings,
 which fills in your app and iOS versions for you.
+
+---
+
+[Privacy Policy](https://garrethboyd.github.io/meander-privacy/) · [Community Guidelines](https://garrethboyd.github.io/meander-privacy/guidelines/) · **User Guide** · [Support](https://garrethboyd.github.io/meander-privacy/support)
