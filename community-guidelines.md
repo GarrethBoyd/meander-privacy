@@ -65,8 +65,9 @@ If you think your account was removed by mistake, email us.
 
 ## Changes
 
-If these guidelines change, Meander will ask you to agree to them again before
-you next share with friends.
+We may update these guidelines from time to time. The latest version is always
+in Meander under **Settings ▸ About**, and continuing to use Friends means you
+accept it.
 
 ---
 
